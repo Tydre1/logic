@@ -1,2 +1,3 @@
-# logic
-Classes that I had about logic, here we have some sites 
+# Logic
+Classes that I had about logic.
+## Sites
